@@ -1,0 +1,25 @@
+{
+    "development": {
+      "username": "trilogy2",
+      "password": "password123",
+      "database": "scholarshipsdb",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "root",
+      "password": null,
+      "database": "database_test",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    },
+    "production": {
+      "use_env_variable": "JAWSDB_URL",
+      "username": "xx",
+      "password": "xx",
+      "database": "xx",
+      "host": "xx",
+      "dialect": "mysql"
+    }
+  }
+  
